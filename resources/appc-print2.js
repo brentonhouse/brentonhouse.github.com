@@ -16,3 +16,5 @@ function(e,a,g,h,f,c,b,d) {
             $("div[class='doc-contents']").attr('style','padding: 20px 8px 20px 5px;');  
             $("div[class='members']").attr('class','members x-panel-body x-panel-body-default'); 
             $('head').append('<link rel="stylesheet" href="resources/css/my.css" type="text/css">');});
+
+// javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://github.brentonhouse.com/resources/appc-print2.js';})();
