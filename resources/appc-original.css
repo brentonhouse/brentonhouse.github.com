@@ -1,4 +1,4 @@
-@import url(http://docs.appcelerator.com/titanium/latest/resources/css/app.css);
+@import url(../../extjs/resources/css/ext-all.css);
 
 .x-nlg .x-toolbar-default {
     background-image: none!important;
