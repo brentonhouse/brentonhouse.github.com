@@ -1,7 +1,7 @@
-@import url(http://docs.appcelerator.com/titanium/latest/resources/css/app.css);
-@import url(http://docs.appcelerator.com/titanium/latest/resources/prettify/prettify.css);
-@import url(http://docs.appcelerator.com/titanium/latest/resources/css/my.css);
-@import url(http://docs.appcelerator.com/titanium/latest/resources/css/common.css);
+@import url(docs.appcelerator.com/titanium/latest/resources/css/app.css);
+@import url(docs.appcelerator.com/titanium/latest/resources/prettify/prettify.css);
+@import url(docs.appcelerator.com/titanium/latest/resources/css/my.css);
+@import url(docs.appcelerator.com/titanium/latest/resources/css/common.css);
 
 .x-panel-body {
    padding: 20px 8px 20px 5px;
