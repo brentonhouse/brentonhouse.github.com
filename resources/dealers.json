@@ -2,10 +2,62 @@
     {
       "baseUrl": "qa.ecinteractiveplus.com/mobile-plus-spr",
       "code": "qa",
+      "name": "Dealer QA",
       "createdBy": "system",
       "dateCreated": "2014-09-02T20:42:08.1Z",
       "dateModified": "2014-09-02T20:42:08.1Z",
       "id": "bd4d9f79b7bae97d39793b481fd0370d",
+      "isActive": true,
+      "isPublic": false,
+      "isRemoved": false,
+      "kind": "Dealer",
+      "logoImages": [
+        {
+          "createdBy": "system",
+          "dateCreated": "2014-09-02T20:42:08.1Z",
+          "dateModified": "2014-09-02T20:42:08.1Z",
+          "height": 0,
+          "id": "258669decc5899b6a8aff4f483ed73f3",
+          "isActive": false,
+          "isPublic": false,
+          "isRemoved": false,
+          "kind": "Thumbnail",
+          "modifiedBy": "system",
+          "name": "default",
+          "timeStamp": "AAAAAAAACOs=",
+          "url": "http://www.ecisolutions.com/img/ECI-logo.png",
+          "width": 0
+        }
+      ],
+      "modifiedBy": "system",
+      "splashImages": [
+        {
+          "createdBy": "system",
+          "dateCreated": "2014-09-02T20:42:08.1Z",
+          "dateModified": "2014-09-02T20:42:08.1Z",
+          "height": 0,
+          "id": "fd2314cd8fe1f40f2365f3f70953b04a",
+          "isActive": false,
+          "isPublic": false,
+          "isRemoved": false,
+          "kind": "Thumbnail",
+          "modifiedBy": "system",
+          "name": "default",
+          "timeStamp": "AAAAAAAACJg=",
+          "url": "http://www.ecisolutions.com/img/ECI-logo.png",
+          "width": 0
+        }
+      ],
+      "timeStamp": "AAAAAAAAB+s="
+    },
+     {
+      "baseUrl": "qaf.ecinteractiveplus.com/mobile-plus-spr",
+      "code": "qaf",
+      "name": "Dealer QAF",
+      "createdBy": "system",
+      "dateCreated": "2014-09-02T20:42:08.1Z",
+      "dateModified": "2014-09-02T20:42:08.1Z",
+      "id": "bd4d9f79b7bae97d39793b481fd0370c",
       "isActive": true,
       "isPublic": false,
       "isRemoved": false,
