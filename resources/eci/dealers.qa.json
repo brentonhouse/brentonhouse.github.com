@@ -2,7 +2,7 @@
     {
       "baseUrl": "qa.ecinteractiveplus.com/mobile-plus-spr",
       "code": "qa",
-      "name": "Dealer QA",
+      "name": "Dealer QA 2",
       "createdBy": "system",
       "dateCreated": "2014-09-02T20:42:08.1Z",
       "dateModified": "2014-09-02T20:42:08.1Z",
@@ -53,7 +53,7 @@
      {
       "baseUrl": "qaf.ecinteractiveplus.com/mobile-plus-spr",
       "code": "qaf",
-      "name": "Dealer QAF",
+      "name": "Dealer QAF 2",
       "createdBy": "system",
       "dateCreated": "2014-09-02T20:42:08.1Z",
       "dateModified": "2014-09-02T20:42:08.1Z",
